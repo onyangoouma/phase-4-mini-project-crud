@@ -68,3 +68,6 @@ Spice.create!([
 ])
 
 puts "✅ Done seeding!"
+
+
+  
